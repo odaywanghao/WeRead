@@ -1,0 +1,18 @@
+[ 2015-06-16T21:31:39+08:00 ] 127.0.0.1 /app/weread/index.php/Index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000215s ]
+ERR: 无法加载模块:Index
+
+[ 2015-06-16T22:23:19+08:00 ] 127.0.0.1 /weread/index.php/Index/register/error/().html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000104s ]
+ERR: 无法加载模块:Index
+
+[ 2015-06-16T22:23:31+08:00 ] 127.0.0.1 /weread/index.php/Index/register/error/().html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000213s ]
+ERR: 无法加载模块:Index
+
